@@ -1,0 +1,11 @@
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\bin\Debug\netcoreapp2.1\FCS_Metadata_Delete.deps.json
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\bin\Debug\netcoreapp2.1\FCS_Metadata_Delete.runtimeconfig.json
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\bin\Debug\netcoreapp2.1\FCS_Metadata_Delete.runtimeconfig.dev.json
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\bin\Debug\netcoreapp2.1\FCS_Metadata_Delete.dll
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.csproj.CoreCompileInputs.cache
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.AssemblyInfoInputs.cache
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.AssemblyInfo.cs
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\bin\Debug\netcoreapp2.1\FCS_Metadata_Delete.pdb
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.dll
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.pdb
+C:\Repositories\FCS_Metadata_Delete\FCS_Metadata_Delete\obj\Debug\netcoreapp2.1\FCS_Metadata_Delete.csprojAssemblyReference.cache
